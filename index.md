@@ -2,7 +2,7 @@
 
 I'm an undergradute student at The City College of New York majoring in computer science.
 
-To learn more about me visit my website: https://www.mahmoudagag.com/
+To learn more about me, visit [my website](https://www.mahmoudagag.com/)
 
 ### Markdown
 
