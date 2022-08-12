@@ -1,4 +1,4 @@
-## Hello, My name is Mahmoud Agag
+## Hello, my name is Mahmoud Agag
 
 I'm an undergradute student at The City College of New York majoring in computer science.
 
