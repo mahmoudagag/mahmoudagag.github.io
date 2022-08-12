@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hello, My name is Mahmoud Agag
 
-You can use the [editor on GitHub](https://github.com/mahmoudagag/mahmoudagag.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an undergradute student at The City College of New York majoring in computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To learn more about me visit my website: https://www.mahmoudagag.com/
 
 ### Markdown
 
